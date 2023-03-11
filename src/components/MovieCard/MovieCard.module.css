@@ -1,0 +1,7 @@
+.wrap {
+  display: flex;
+  margin-top: 10px;
+}
+.card {
+  padding: 30px;
+}

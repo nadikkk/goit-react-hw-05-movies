@@ -1,0 +1,12 @@
+.foto{
+	background-color:#dedada;
+	width: 400px;
+	height: 400px;
+	font-size: 45px;
+	font-weight: 700;
+	color: dimgrey;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
